@@ -21,7 +21,7 @@ repository               : "biwenling/biwenling.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "BiwenLing.jpg"
   name             : "Biwen Ling"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D Candidate in Actuarial Science and Quantitative Economics"
