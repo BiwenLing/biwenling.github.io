@@ -6,12 +6,12 @@ redirect_from:
   - /md/
   - /research.html
 ---
-## Submitted Papers
-Understanding the Correlation Risk Premium, *with Jan Dhaene, Daniel Linders and Qian Wang*.
+**Understanding the Correlation Risk Premium**, joint work with **Jan Dhaene**, **Daniel Linders**, and **Qian Wang**.  
+*Annals of Actuarial Science*, First View 2024, 1-24.
 
-*You can find the latest version [here](https://feb.kuleuven.be/public/u0014274/2023-Dhaene-Linders-Ling-Wang.pdf).*
+*You can find the latest version [here](https://www.cambridge.org/core/journals/annals-of-actuarial-science/article/understanding-the-correlation-risk-premium/1B70B7518A4DF63AABEC7B9BA3269A1E).*
 
 ## Work in Progress
-Dispersion Swap in a Continuous-time Financial Market, *with Daniel Linders and Bertrand Tavin*.
+**Dispersion Swap in a Continuous-time Financial Market**, joing work with **Daniel Linders** and **Bertrand Tavin**.
 
-Decomposition of Unit-linked Insurance Claims, *with Jan Dhaene and Daniel Linders*.
+**4-Step Valuation**, joint work with **Tim J. Boonen, Jan Dhaene** and **Daniel Linders**.
