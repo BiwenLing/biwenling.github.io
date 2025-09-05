@@ -10,8 +10,8 @@ redirect_from:
 
 **Welcome!**
 
-I am currently a fourth-year Ph.D. candidate in Actuarial science and Quantitative Economics at KU Leuven, under the supervision of Prof. [Jan Dhaene](https://jandhaene.org) and Prof. [Daniel Linders](https://daniellinders.com/). Before my doctoral studies, I obtained a Master's degree in Actuarial Science from the University of Illinois Urbana-Champaign and a Bachelor's degree in Mathematics from Nankai University. 
+I am currently a fourth-year Ph.D. candidate in Actuarial science at KU Leuven, under the supervision of Prof. [Jan Dhaene](https://jandhaene.org) and Prof. [Daniel Linders](https://daniellinders.com/). Before my doctoral studies, I obtained a Master's degree in Actuarial Science from the University of Illinois at Urbana-Champaign and a Bachelor's degree in Mathematics from Nankai University. 
 
 
-My research interests lie in the intersection of actuarial science and quantitative finance, including correlation trading strategies within the financial market, valuation in finance and insurance, and systematic risk management. 
+My research interests lie in the intersection of actuarial science and quantitative finance, including correlation trading strategies within the financial market, valuation in finance and insurance, systematic risk, and risk sharing. 
 
