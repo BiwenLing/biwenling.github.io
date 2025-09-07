@@ -17,7 +17,7 @@ redirect_from:
 ## Working Papers
 
 - **A Decomposition Framework for Managing Hybrid Liabilities**  
-  *with [Daniel Linders](https://daniellinders.com), [Jan Dhaene](https://jandhaene.org), and [Tim J. Boonen](https://saasresearch.hku.hk/~tjboonen/)*, submitted. [Read the article ›](https://ssrn.com/author=6108083)
+  *with [Daniel Linders](https://daniellinders.com), [Jan Dhaene](https://jandhaene.org), and [Tim J. Boonen](https://saasresearch.hku.hk/~tjboonen/)*, submitted. [Read the article ›](http://ssrn.com/abstract=5450731)
 
 - **Dispersion Swap in a Continuous-time Financial Market**  
   *with [Daniel Linders](https://daniellinders.com) and [Bertrand Tavin](https://btavin.com)*
